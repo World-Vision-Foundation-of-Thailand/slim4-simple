@@ -28,6 +28,11 @@ class HomeController
         //     );
 
     }
+
+    public function create(Request $request, Response $response, $args)
+    {
+        //--
+    }
 }
 
 
